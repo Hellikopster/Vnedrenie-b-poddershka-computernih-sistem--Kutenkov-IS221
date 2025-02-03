@@ -6,7 +6,9 @@
 
 Практическая 3 (for while): https://colab.research.google.com/drive/1fHsrppMP4Ux2J2sI9slrEi8td2Fpv56q?usp=sharing
 
+Практическая 4 (for for): https://colab.research.google.com/drive/1dxfgVDCEwUCslw2GPJZa8FoMW6vszlzx?usp=sharing
 
+Практическая 5 (set): https://colab.research.google.com/drive/190VA_cuzr0_pP_g3USGHSPV2xZtc6Y6A?usp=sharing
 
 
 
