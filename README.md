@@ -10,7 +10,7 @@
 
 Практическая 5 (set): https://colab.research.google.com/drive/190VA_cuzr0_pP_g3USGHSPV2xZtc6Y6A?usp=sharing
 
-
+Практическая 6 (string[0]): https://colab.research.google.com/drive/1dOQWAJJBlzcdttcjBZxQWgpMEDf3XaEX?usp=sharing
 
 Компьютерные сети https://github.com/Hellikopster/Computernie-seti---Kutenkov-IS221
 
