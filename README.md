@@ -18,4 +18,5 @@
 
 Обеспечение качества компьютерных систем https://github.com/Hellikopster/Obespechenie-kachestva-functionirovaniya-computernih-sistem--Kutenkov-IS221
 
-Внедрение и поддержка компьютерных систем https://github.com/Hellikopster/Obespechenie-kachestva-functionirovaniya-computernih-sistem--Kutenkov-IS221
+Внедрение и поддержка компьютерных систем 
+https://github.com/Hellikopster/Vnedrenie-b-poddershka-computernih-sistem--Kutenkov-IS221 
