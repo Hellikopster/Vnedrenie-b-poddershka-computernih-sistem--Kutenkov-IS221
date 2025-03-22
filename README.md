@@ -17,7 +17,9 @@
 Практическая 10 (списки): https://colab.research.google.com/drive/1oBUQHTAoWcib_GGUzl5jMxoFDy8W14rc?usp=sharing 
 
 Практическая 11 (кортежи):
-https://colab.research.google.com/drive/1iAqz_c7Ty1SRd4QaAGH7ewc50oGQx5b0?usp=sharing 
+https://colab.research.google.com/drive/1iAqz_c7Ty1SRd4QaAGH7ewc50oGQx5b0?usp=sharing
+
+Практическая 12 (split join): https://colab.research.google.com/drive/1mXZfT4Faq--oadzT9xrLX94qowueAR6U?usp=sharing
 
 Компьютерные сети https://github.com/Hellikopster/Computernie-seti---Kutenkov-IS221
 
