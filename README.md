@@ -35,6 +35,8 @@ https://colab.research.google.com/drive/1iAqz_c7Ty1SRd4QaAGH7ewc50oGQx5b0?usp=sh
 
 Практическая 19 (Нюансы): https://colab.research.google.com/drive/1UNqu3lutCj22hMhZ9m_Vsz4R7FSlI9cD?usp=sharing
 
+Практическая 20 (Аргументы - чем больше, тем лучше): https://colab.research.google.com/drive/1JWLDfDkeRRnHuCIaY2YAxAbBvSLNKsBC?usp=sharing
+
 Компьютерные сети https://github.com/Hellikopster/Computernie-seti---Kutenkov-IS221
 
 Обеспечение качества компьютерных систем https://github.com/Hellikopster/Obespechenie-kachestva-functionirovaniya-computernih-sistem--Kutenkov-IS221
